@@ -1,0 +1,4 @@
+# pics
+*.jpg
+*.svg
+!/public/assets/images/*.jpg
